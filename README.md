@@ -144,6 +144,7 @@ It lets you install the following tools:
 * [Tmux] for saving project state and switching between projects
 * [Vim] for those who prefer the command line
 * [Spectacle] - automatic window manipulation
+* [Zoom.us] - video conferencing client
 
 [Atom]: https://atom.io/
 [Exuberant Ctags]: http://ctags.sourceforge.net/
@@ -153,6 +154,7 @@ It lets you install the following tools:
 [Tmux]: http://tmux.sourceforge.net/
 [Vim]: http://www.vim.org/
 [Spectacle]: https://www.spectacleapp.com/
+[Zoomus]: https://zoom.us
 
 For example:
 
@@ -166,6 +168,7 @@ cask 'atom'
 cask 'firefox'
 cask 'iterm2'
 cask 'spectacle'
+cask 'zoomus'
 
 brew 'vim'
 brew 'ctags'
